@@ -1,0 +1,23 @@
+{
+    "name": "karoline/biblioteca-cep",
+    "description": "Busca de CEP online",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Karoline",
+            "email": "karol.db@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload":{
+        "psr-0":{
+            "Busca": "src/"
+        },
+        "psr-4":{
+            "Karoline\\BibliotecaCep\\": "src/"
+        }
+    }
+}
