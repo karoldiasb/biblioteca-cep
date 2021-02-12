@@ -1,0 +1,5 @@
+Busca
+ [x] Get endereco pelo cep default usage with data set "Endereço da Paraça da Sé"
+ [x] Get endereco pelo cep default usage with data set "Endereço Qualquer"
+ [x] File get contents default usage
+
